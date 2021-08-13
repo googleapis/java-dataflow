@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/googleapis/java-dataflow/compare/v0.1.0...v0.2.0) (2021-08-13)
+
+
+### Features
+
+* configure initial sp version ([#26](https://www.github.com/googleapis/java-dataflow/issues/26)) ([342bfc9](https://www.github.com/googleapis/java-dataflow/commit/342bfc9277d307708578b0c541d640b60caa2079))
+
 ## 0.1.0 (2021-07-08)
 
 
