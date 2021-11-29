@@ -93,8 +93,7 @@ public final class MetricsProto {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "%google/dataflow/v1beta3/metrics.proto\022"
-          + "\027google.dataflow.v1beta3\032\034google/api/annotations.proto\032\034google/protobuf/struct.proto\032\037google/protobuf/timestamp.proto\032\027google/api/client.proto\"\261\001\n"
+          + "%google/dataflow/v1beta3/metrics.proto\022\027google.dataflow.v1beta3\032\034google/api/annotations.proto\032\034google/protobuf/struct.proto\032\037google/protobuf/timestamp.proto\032\027google/api/client.proto\"\261\001\n"
           + "\024MetricStructuredName\022\016\n"
           + "\006origin\030\001 \001(\t\022\014\n"
           + "\004name\030\002 \001(\t\022K\n"
@@ -183,8 +182,7 @@ public final class MetricsProto {
           + "\030GetStageExecutionDetails\0228.google.dataflow.v1beta3.GetStageExecutionDe"
           + "tailsRequest\032..google.dataflow.v1beta3.S"
           + "tageExecutionDetails\"\000\032\324\001\312A\027dataflow.goo"
-          + "gleapis.com\322A\266\001https://www.googleapis.co"
-          + "m/auth/cloud-platform,https://www.googleapis.com/auth/compute,https://www.googleapis.com/auth/compute.readonly,https://www.googleapis.com/auth/userinfo.emailB\321\001\n"
+          + "gleapis.com\322A\266\001https://www.googleapis.com/auth/cloud-platform,https://www.googleapis.com/auth/compute,https://www.googleapis.com/auth/compute.readonly,https://www.googleapis.com/auth/userinfo.emailB\321\001\n"
           + "\033com.google.dataflow.v1beta3B\014MetricsPr"
           + "otoP\001Z?google.golang.org/genproto/google"
           + "apis/dataflow/v1beta3;dataflow\252\002\035Google."
