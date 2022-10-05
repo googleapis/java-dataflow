@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.6](https://github.com/googleapis/java-dataflow/compare/v0.7.5...v0.7.6) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([63bfc0e](https://github.com/googleapis/java-dataflow/commit/63bfc0ec9f5349cb105cc5123024283000f98884))
+
 ## [0.7.5](https://github.com/googleapis/java-dataflow/compare/v0.7.4...v0.7.5) (2022-10-03)
 
 
