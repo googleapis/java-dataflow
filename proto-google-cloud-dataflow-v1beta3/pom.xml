@@ -10,7 +10,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-dataflow-parent</artifactId>
-    <version>0.7.7-SNAPSHOT</version><!-- {x-version-update:google-cloud-dataflow:current} -->
+    <version>0.8.0</version><!-- {x-version-update:google-cloud-dataflow:current} -->
   </parent>
   <dependencies>
     <dependency>
